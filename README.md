@@ -20,4 +20,12 @@ Diseño Responsivo: La página está diseñada para ser completamente adaptable 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![]()
+
+## Autor ✒️
+**Jesse Salomon Carranza Torres**         
+
+* Pagina Web: (https://gc13.netlify.app)
+* Correo: (gc13dev@hotmail.com)
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-salomon-carranza-torres-343117225/)
+
