@@ -1,7 +1,7 @@
 # Portafolio-WebTemplate
 Este proyecto es una página de presentación que sirve como mi portafolio personal, donde ofrezco mis servicios como desarrollador web. La página ha sido diseñada para mostrar mi trabajo, habilidades y experiencia de una manera atractiva y funcional.
 
-## Características clave:
+# Características clave:
 Recarga dinámica: Cada vez que se carga la página, se presenta una imagen diferente para darle un toque visual interesante y único.
 
 Menú de navegación: Un botón en la parte superior izquierda despliega un menú que permite a los visitantes navegar fácilmente por las diferentes secciones de la página, lo que mejora la experiencia de usuario.
@@ -13,3 +13,9 @@ Slider de texto: Algunas secciones de la página utilizan un slider para present
 Secciones informativas: El contenido de la página está organizado en secciones temáticas con listas, lo que permite a los visitantes obtener información clara y concisa sobre mis habilidades, experiencia y proyectos destacados.
 
 Diseño Responsivo: La página está diseñada para ser completamente adaptable y funcional en dispositivos móviles, asegurando que los usuarios tengan una experiencia óptima sin importar el dispositivo que utilicen.
+
+## Tecnologías 🛠
+![VisualStudio]({https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white})
+![JS]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E})
+![CSS]({https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white})
+![]({})
