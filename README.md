@@ -39,14 +39,6 @@ https://gc-asd.netlify.app
 ## Conclusión 📝
 Esta plantilla de página web ha sido diseñada para ofrecer una presentación informativa y atractiva. Su enfoque dinámico, menú de navegación intuitivo y navegación rápida brindan una experiencia interactiva para los visitantes.
 
-Destacando elementos clave:
-
-* Recarga dinámica para una experiencia visual única.
-* Menú de navegación desplegable para una fácil navegación entre secciones.
-* Navegación rápida con botones para desplazarse suavemente a través del contenido.
-* Slider de texto para presentar información de manera dinámica.
-* Diseño responsivo que se adapta a dispositivos móviles.
-
 Esta plantilla es ideal para crear páginas de presentación informativas y atractivas para diversos propósitos. Personalízala con tu contenido y crea una experiencia única para tus visitantes.
 
 ## Autor ✒️
