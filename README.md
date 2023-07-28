@@ -6,13 +6,13 @@ Este proyecto es una página de presentación que sirve como mi portafolio perso
 
 **Menú de navegación:** Un botón en la parte superior izquierda despliega un menú que permite a los visitantes navegar fácilmente por las diferentes secciones de la página, lo que mejora la experiencia de usuario.
 
-Navegación rápida: En la parte inferior de cada sección, se encuentran botones que permiten al usuario desplazarse suavemente hacia la siguiente sección de la página, lo que facilita la exploración del contenido.
+**Navegación rápida:** En la parte inferior de cada sección, se encuentran botones que permiten al usuario desplazarse suavemente hacia la siguiente sección de la página, lo que facilita la exploración del contenido.
 
-Slider de texto: Algunas secciones de la página utilizan un slider para presentar información de manera dinámica. Pequeñas flechas en la parte inferior permiten a los usuarios cambiar el contenido de texto, lo que agrega interactividad.
+**Slider de texto:** Algunas secciones de la página utilizan un slider para presentar información de manera dinámica. Pequeñas flechas en la parte inferior permiten a los usuarios cambiar el contenido de texto, lo que agrega interactividad.
 
-Secciones informativas: El contenido de la página está organizado en secciones temáticas con listas, lo que permite a los visitantes obtener información clara y concisa sobre mis habilidades, experiencia y proyectos destacados.
+**Secciones informativas:** El contenido de la página está organizado en secciones temáticas con listas, lo que permite a los visitantes obtener información clara y concisa sobre mis habilidades, experiencia y proyectos destacados.
 
-Diseño Responsivo: La página está diseñada para ser completamente adaptable y funcional en dispositivos móviles, asegurando que los usuarios tengan una experiencia óptima sin importar el dispositivo que utilicen.
+**Diseño Responsivo:** La página está diseñada para ser completamente adaptable y funcional en dispositivos móviles, asegurando que los usuarios tengan una experiencia óptima sin importar el dispositivo que utilicen.
 
 ## Tecnologías 🛠
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
