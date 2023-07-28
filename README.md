@@ -1,7 +1,7 @@
 # Portafolio-WebTemplate
 Este proyecto es una página de presentación que sirve como mi portafolio personal, donde ofrezco mis servicios como desarrollador web. La página ha sido diseñada para mostrar mi trabajo, habilidades y experiencia de una manera atractiva y funcional.
 
-# Características clave:
+# Características clave
 Recarga dinámica: Cada vez que se carga la página, se presenta una imagen diferente para darle un toque visual interesante y único.
 
 Menú de navegación: Un botón en la parte superior izquierda despliega un menú que permite a los visitantes navegar fácilmente por las diferentes secciones de la página, lo que mejora la experiencia de usuario.
@@ -33,8 +33,20 @@ Si quieres hechas un vistazo al proyecto, te recomiendo:
 ![Captura del proyecto](https://raw.githubusercontent.com/jesse5313/Portafolio-WebTemplate/main/capturas/4.png)
 ![Captura del proyecto](https://raw.githubusercontent.com/jesse5313/Portafolio-WebTemplate/main/capturas/5.png)
 
-## Visitar Sitio Web: 🌐
+## Visitar Sitio Web 🌐
 https://gc-asd.netlify.app
+
+## Conclusión 📝
+Esta plantilla de página web ha sido diseñada para ofrecer una presentación informativa y atractiva. Su enfoque dinámico, menú de navegación intuitivo y navegación rápida brindan una experiencia interactiva para los visitantes.
+
+Destacando elementos clave:
+*Recarga dinámica para una experiencia visual única.
+*Menú de navegación desplegable para una fácil navegación entre secciones.
+*Navegación rápida con botones para desplazarse suavemente a través del contenido.
+*Slider de texto para presentar información de manera dinámica.
+*Diseño responsivo que se adapta a dispositivos móviles.
+
+Esta plantilla es ideal para crear páginas de presentación informativas y atractivas para diversos propósitos. Personalízala con tu contenido y crea una experiencia única para tus visitantes.
 
 ## Autor ✒️
 **Jesse Salomon Carranza Torres**         
