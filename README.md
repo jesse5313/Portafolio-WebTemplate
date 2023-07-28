@@ -15,11 +15,23 @@ Secciones informativas: El contenido de la página está organizado en secciones
 Diseño Responsivo: La página está diseñada para ser completamente adaptable y funcional en dispositivos móviles, asegurando que los usuarios tengan una experiencia óptima sin importar el dispositivo que utilicen.
 
 ## Tecnologías 🛠
-![VisualStudio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+# Frameworks 🚀 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## IDE 🖍
+![VisualStudio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+## Vista previa del proyecto
+Si quieres hechas un vistazo al proyecto, te recomiendo:
+![Captura del proyecto](https://raw.githubusercontent.com/jesse5313/Portafolio-WebTemplate/main/capturas/1.png)
+![Captura del proyecto](https://raw.githubusercontent.com/jesse5313/Portafolio-WebTemplate/main/capturas/2.png)
+![Captura del proyecto](https://raw.githubusercontent.com/jesse5313/Portafolio-WebTemplate/main/capturas/3.png)
+![Captura del proyecto](https://raw.githubusercontent.com/jesse5313/Portafolio-WebTemplate/main/capturas/4.png)
+![Captura del proyecto](https://raw.githubusercontent.com/jesse5313/Portafolio-WebTemplate/main/capturas/5.png)
 
 ## Autor ✒️
 **Jesse Salomon Carranza Torres**         
