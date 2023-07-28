@@ -41,11 +41,11 @@ Esta plantilla de página web ha sido diseñada para ofrecer una presentación i
 
 Destacando elementos clave:
 
-*Recarga dinámica para una experiencia visual única.
-*Menú de navegación desplegable para una fácil navegación entre secciones.
-*Navegación rápida con botones para desplazarse suavemente a través del contenido.
-*Slider de texto para presentar información de manera dinámica.
-*Diseño responsivo que se adapta a dispositivos móviles.
+* Recarga dinámica para una experiencia visual única.
+* Menú de navegación desplegable para una fácil navegación entre secciones.
+* Navegación rápida con botones para desplazarse suavemente a través del contenido.
+* Slider de texto para presentar información de manera dinámica.
+* Diseño responsivo que se adapta a dispositivos móviles.
 
 Esta plantilla es ideal para crear páginas de presentación informativas y atractivas para diversos propósitos. Personalízala con tu contenido y crea una experiencia única para tus visitantes.
 
